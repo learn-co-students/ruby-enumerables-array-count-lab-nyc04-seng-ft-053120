@@ -124,7 +124,7 @@ element is greater than zero.
 ```rb
 ...
 if array[index] > 0
-  total += 1 # only increments when teh current element is greater than zero
+  total += 1 # only increments when the current element is greater than zero
 end
 ...
 ```
