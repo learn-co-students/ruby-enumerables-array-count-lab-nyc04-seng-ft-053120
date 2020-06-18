@@ -11,7 +11,6 @@ elements in the array.
 ```rb
 [1, 2, 3].count # => 3
 ```
-
 You may have noticed in some previous examples, instead of `count`, we might
 have used `length`.
 
@@ -33,7 +32,7 @@ have. [`count` is an _Enumerable_][count].
 
 In this lesson, we're going to take a more in-depth look at `count`, why it is
 different than `length` and `size`, and how it is useful. At the end, you will
-be tasked with writing your own 
+be tasked with writing your own
 
 ## `count` vs `length` and `size`
 
