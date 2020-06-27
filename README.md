@@ -1,3 +1,4 @@
+
 # Array Count Lab
 
 ## Introduction
